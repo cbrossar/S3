@@ -2,7 +2,7 @@
 # S3 Utility Script
 
 ### Description
-This python script pulls AWS S3 bucket data.
+This python script exports AWS S3 bucket and file data into an excel file
 
 ### How to Run
 - Clone the repository
